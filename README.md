@@ -1,2 +1,4 @@
-# Technical System Analysis
-System analysis is a review of a technological system, like a software package, for troubleshooting, development or improvement purposes.
+# Courses
+- INFO-6109
+- INFO-6200
+- INFO-6300
